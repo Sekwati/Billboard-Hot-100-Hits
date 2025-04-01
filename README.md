@@ -23,7 +23,7 @@ Ensure you have the following installed:
 - Java 17 or later
 - PostgreSQL
 - Maven
-- Eclipse (or any preferred IDE with Git integration)
+- Eclipse (or any preferred IDE)
 - Git
 
 ### Database Configuration
