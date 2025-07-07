@@ -15,7 +15,6 @@ Billboard Hits is a Spring Boot-based REST API for managing and retrieving top s
 - **Database:** PostgreSQL
 - **ORM:** Hibernate (JPA)
 - **Build Tool:** Maven
-- **Version Control:** Git & GitHub
 
 ## Setup and Installation
 ### Prerequisites
